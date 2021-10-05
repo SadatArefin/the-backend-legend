@@ -1,0 +1,130 @@
+[
+    {
+        "id":1,
+        "title":"NodeJS Express",
+        "duration": "15 hours",
+        "syllabus":{
+            "topic1":"Modules",
+            "topic2":"Database",
+            "topic3":"Login/Registration",
+            "topic4":"API integration",
+            "topic5":"Payment Gateway",
+            "topic6":"Security",
+            "topic7":"Performance"
+        },
+        "instructor":"Sumit Saha",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+    },
+    {
+        "id":2,
+        "title":"Laravel",
+        "duration": "18 hours",
+        "syllabus":{
+            "topic1":"Modules",
+            "topic2":"Database",
+            "topic3":"Login/Registration",
+            "topic4":"API integration",
+            "topic5":"Payment Gateway",
+            "topic6":"Security",
+            "topic7":"Performance"
+        },
+        "instructor":"Hasin Hayder",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
+    },
+    {
+        "id":3,
+        "title":"Django",
+        "duration": "12 hours",
+        "syllabus":{
+            "topic1":"Modules",
+            "topic2":"Database",
+            "topic3":"Login/Registration",
+            "topic4":"API integration",
+            "topic5":"Payment Gateway",
+            "topic6":"Security",
+            "topic7":"Performance"
+        },
+        "instructor":"Bohubrihi",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"
+    },
+    {
+        "id":4,
+        "title":"Spring Boot",
+        "duration": "20 hours",
+        "syllabus":{
+            "topic1":"Modules",
+            "topic2":"Database",
+            "topic3":"Login/Registration",
+            "topic4":"API integration",
+            "topic5":"Payment Gateway",
+            "topic6":"Security",
+            "topic7":"Performance"
+        },
+        "instructor":"Md Jalal Uddin",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"
+    },
+    {
+        "id":5,
+        "title":"MongoDB",
+        "duration": "7 hours",
+        "syllabus":{
+            "topic1":"Modules",
+            "topic2":"Database",
+            "topic3":"Login/Registration",
+            "topic4":"API integration",
+            "topic5":"Payment Gateway",
+            "topic6":"Security",
+            "topic7":"Performance"
+        },
+        "instructor":"Sumit Saha",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png"
+    },
+    {
+        "id":6,
+        "title":"MySQL",
+        "duration": "10 hours",
+        "syllabus":{
+            "topic1":"Modules",
+            "topic2":"Database",
+            "topic3":"Login/Registration",
+            "topic4":"API integration",
+            "topic5":"Payment Gateway",
+            "topic6":"Security",
+            "topic7":"Performance"
+        },
+        "instructor":"Sadat Arefin Rafat",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg"
+    },
+    {
+        "id":7,
+        "title":"PostGRE",
+        "duration": "9 hours",
+        "syllabus":{
+            "topic1":"Modules",
+            "topic2":"Database",
+            "topic3":"Login/Registration",
+            "topic4":"API integration",
+            "topic5":"Payment Gateway",
+            "topic6":"Security",
+            "topic7":"Performance"
+        },
+        "instructor":"Sadat Arefin Rafat",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
+    },
+    {
+        "id":8,
+        "title":"Redis",
+        "duration": "5 hours",
+        "syllabus":{
+            "topic1":"Modules",
+            "topic2":"Database",
+            "topic3":"Login/Registration",
+            "topic4":"API integration",
+            "topic5":"Payment Gateway",
+            "topic6":"Security",
+            "topic7":"Performance"
+        },
+        "instructor":"Traversy Media",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg"
+    }
+]
